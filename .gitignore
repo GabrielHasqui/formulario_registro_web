@@ -1,0 +1,9 @@
+# Archivos temporales de revisión
+tmp/
+
+# Configuración local del editor
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
